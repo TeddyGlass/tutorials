@@ -14,4 +14,4 @@ Pythonによるケモインフォマティクスを学部４年生向けに講�
 
 ### 目次
 ---
-[Chapter1: RDkitで分子構造を操作する](https://github.com/TeddyGlass/tutorials/blob/main/notebook/chapter1.ipynb)
+* [Chapter1: RDkitで分子構造を操作する](https://github.com/TeddyGlass/tutorials/blob/main/notebook/chapter1.ipynb)
