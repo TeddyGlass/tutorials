@@ -10,4 +10,8 @@ Pythonによるケモインフォマティクスを学部４年生向けに講�
 
 ### このリポジトリで扱わないこと
 ---
-このリポジトリでは, Pythonでプログラム開発を行うための環境構築については扱いません.
+このリポジトリでは, Pythonでプログラム開発を行うための環境構築については扱いません.  
+
+### 目次
+---
+[Chapter1: RDkitで分子構造を操作する](https://github.com/TeddyGlass/tutorials/blob/main/notebook/chapter1.ipynb)
