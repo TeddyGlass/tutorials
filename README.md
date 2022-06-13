@@ -6,10 +6,7 @@ Pythonによるケモインフォマティクスを薬学部の学部生向け�
 * csvファイルの扱い
 * 分子構造の扱い
 * 化学構造記述子・フィンガープリントの算出
-* 機械学習
-
-## このリポジトリで扱わないこと
-このリポジトリでは, Pythonでプログラム開発を行うための環境構築については扱いません.  
+* 機械学習  
 
 ## 目次
 * [Chapter0: WindowsによるPython環境構築](https://github.com/TeddyGlass/tutorials/blob/main/pdf/pyenv_for_windows.pdf)
