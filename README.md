@@ -12,4 +12,5 @@ Pythonによるケモインフォマティクスを薬学部の学部生向け�
 このリポジトリでは, Pythonでプログラム開発を行うための環境構築については扱いません.  
 
 ## 目次
+* [Chapter0: WindowsによるPython環境構築](https://github.com/TeddyGlass/tutorials/blob/main/pdf/pyenv_for_windows.pdf)
 * [Chapter1: RDkitで分子構造を描写する](https://github.com/TeddyGlass/tutorials/blob/main/notebook/chapter1.ipynb)
