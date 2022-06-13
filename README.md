@@ -6,6 +6,10 @@
 * データサイエンスに興味があるけど, 何から手をつけていいかわからない人
 * 謎の力により化学情報学やAIプロジェクトに突然アサインされた人
 
+## 対象しにしない層
+* データサイエンスにPythonを道具として使っている人　　
+* 最新の論文の動向を追ったり実装の再現をゴリゴリこなしている人
+
 ## 目次
 * [Chapter0: WindowsによるPython環境構築](https://github.com/TeddyGlass/tutorials/blob/main/pdf/pyenv_for_windows.pdf)
 * [Chapter1: RDkitで分子構造を描写する](https://github.com/TeddyGlass/tutorials/blob/main/notebook/chapter1.ipynb)
