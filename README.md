@@ -11,7 +11,7 @@
 * 最新の論文の動向を追ったり実装の再現をゴリゴリこなしている人
 
 ## 目次
-* [Chapter0: WindowsによるPython環境構築](https://github.com/TeddyGlass/tutorials/blob/main/pdf/pyenv_for_windows.pdf)
+* [Chapter0: WindowsによるPython環境構築](https://github.com/TeddyGlass/tutorials/blob/main/pdf/pyenv4windows.pdf)
 * [Chapter1: RDkitで分子構造を描写する](https://github.com/TeddyGlass/tutorials/blob/main/notebook/chapter1.ipynb)
 * [Chapter2: Mordred記述子を算出する](https://github.com/TeddyGlass/tutorials/tree/main/sample_code/mordred)  
 * [Chapter3: RDkitでフィンガープリントを算出する](https://github.com/TeddyGlass/tutorials/blob/main/notebook/chapter3.ipynb)
