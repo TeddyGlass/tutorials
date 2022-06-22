@@ -15,3 +15,4 @@
 * [Chapter1: RDkitで分子構造を描写する](https://github.com/TeddyGlass/tutorials/blob/main/notebook/chapter1.ipynb)
 * [Chapter2: Mordred記述子を算出する](https://github.com/TeddyGlass/tutorials/tree/main/sample_code/mordred)  
 * [Chapter3: RDkitでフィンガープリントを算出する](https://github.com/TeddyGlass/tutorials/blob/main/notebook/chapter3.ipynb)
+* [番外編: Python基礎講座](https://github.com/TeddyGlass/tutorials/blob/main/notebook/extra_python.ipynb)
